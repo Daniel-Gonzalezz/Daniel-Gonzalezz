@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel, an <a href="https://www.linkedin.com/in/oscar-gonzalez-a146b8190/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Daniel, an <a href="https://www.linkedin.com/in/oscar-gonzalez">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
